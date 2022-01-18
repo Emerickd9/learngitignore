@@ -1,6 +1,6 @@
 # Mono auto generated files - Ignore all files starting with "z"
 z*
 # ignore the .env file
-**/.env
+*/.env
 
 /artifacts/
