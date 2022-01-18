@@ -1,1 +1,7 @@
-node_modules/
+# Mono auto generated files - Ignore all files starting with "z"
+z*
+# ignore the .env file
+**/.env
+# Root config folder - Ignore this directory at the root due to leading slash
+# Removing the slash would ignore "config" directories at all depths 
+/artifacts
